@@ -10,9 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18676a32-ffa8-4555-9032-8dbb9ef767e5" name="Default Changelist" comment="My First Commit">
+    <list default="true" id="18676a32-ffa8-4555-9032-8dbb9ef767e5" name="Default Changelist" comment="postgres-pod.yaml changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/postgres-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-pod.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-app-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/result-app-pod.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588142628555</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="postgres-pod.yaml changes">
+      <created>1588143869565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588143869565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,7 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My First Commit" />
+    <MESSAGE value="postgres-pod.yaml changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="postgres-pod.yaml changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="199" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588137245791">

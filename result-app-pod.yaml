@@ -9,5 +9,7 @@ spec:
   containers:
   - name: result-app
     image: dockersamples/examplevotingapp_result
+  nodeName:
+    type: frontend
     ports:
       - containerPort: 80
